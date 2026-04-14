@@ -19,7 +19,7 @@
 ![Home](tugas/form.png)
 
 ### Form Input
-![Form](tugas/imput.png)
+![Form](tugas/input.png)
 
 ### Home Setelah Input
 ![After Input](tugas/form2.png)
@@ -35,7 +35,7 @@
 ![Home Teman](tugas/form-temen.png)
 
 ### Form
-![Form Teman](tugas/input-temen.png)
+![Form Teman](tugas/imput-temen.png)
 
 ### Setelah Input
 ![After Teman](tugas/form-temen-after.png)
